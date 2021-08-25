@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "tuya-cloud-api": "^1.1.0"
+  },
+  "name": "tuya-cloud-api",
+  "version": "1.0.0",
+  "description": "Tuya Cloud API Wrapper",
+  "main": "cloud.mjs",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cloud.mjs"
+  },
+  "keywords": [
+    "tuya",
+    "cloud",
+    "api"
+  ],
+  "author": "Tommaso Tani",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  }
+}
